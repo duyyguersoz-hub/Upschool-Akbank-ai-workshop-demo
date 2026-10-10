@@ -1,0 +1,6 @@
+{
+  "name": "KariyerPusula - AI Mülakat & Kariyer Koçu Acentesi",
+  "description": "Görüşmecinin unvanına göre özel soru ve stratejiler üreten, aldığınız eğitimleri derinlemesine analiz ederek bir sonraki adım için en uygun eğitim ve gelişim yol haritasını çizen acente platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
